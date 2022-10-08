@@ -1,0 +1,1 @@
+C:\installer\movieplayerpro\c#2010\GeneralVMR9\obj\Debug\WindowsApplication1.csproj.ResolveComReference.cache
