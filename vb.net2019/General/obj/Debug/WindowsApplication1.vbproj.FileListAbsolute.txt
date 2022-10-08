@@ -1,0 +1,15 @@
+C:\Program Files (x86)\Movie Player Pro ActiveX ControlTesting14\Examples\vb.net2010\General\bin\Debug\WindowsApplication1.exe
+C:\Program Files (x86)\Movie Player Pro ActiveX ControlTesting14\Examples\vb.net2010\General\bin\Debug\WindowsApplication1.pdb
+C:\Program Files (x86)\Movie Player Pro ActiveX ControlTesting14\Examples\vb.net2010\General\bin\Debug\WindowsApplication1.xml
+C:\Program Files (x86)\Movie Player Pro ActiveX ControlTesting14\Examples\vb.net2010\General\bin\Debug\Interop.MOVIEPLAYERLib.dll
+C:\Program Files (x86)\Movie Player Pro ActiveX ControlTesting14\Examples\vb.net2010\General\bin\Debug\AxInterop.MOVIEPLAYERLib.dll
+C:\Program Files (x86)\Movie Player Pro ActiveX ControlTesting14\Examples\vb.net2010\General\obj\Debug\WindowsApplication1.vbprojAssemblyReference.cache
+C:\Program Files (x86)\Movie Player Pro ActiveX ControlTesting14\Examples\vb.net2010\General\obj\Debug\Interop.MOVIEPLAYERLib.dll
+C:\Program Files (x86)\Movie Player Pro ActiveX ControlTesting14\Examples\vb.net2010\General\obj\Debug\AxInterop.MOVIEPLAYERLib.dll
+C:\Program Files (x86)\Movie Player Pro ActiveX ControlTesting14\Examples\vb.net2010\General\obj\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+C:\Program Files (x86)\Movie Player Pro ActiveX ControlTesting14\Examples\vb.net2010\General\obj\Debug\WindowsApplication1.Form1.resources
+C:\Program Files (x86)\Movie Player Pro ActiveX ControlTesting14\Examples\vb.net2010\General\obj\Debug\WindowsApplication1.Resources.resources
+C:\Program Files (x86)\Movie Player Pro ActiveX ControlTesting14\Examples\vb.net2010\General\obj\Debug\WindowsApplication1.vbproj.GenerateResource.cache
+C:\Program Files (x86)\Movie Player Pro ActiveX ControlTesting14\Examples\vb.net2010\General\obj\Debug\WindowsApplication1.exe
+C:\Program Files (x86)\Movie Player Pro ActiveX ControlTesting14\Examples\vb.net2010\General\obj\Debug\WindowsApplication1.xml
+C:\Program Files (x86)\Movie Player Pro ActiveX ControlTesting14\Examples\vb.net2010\General\obj\Debug\WindowsApplication1.pdb

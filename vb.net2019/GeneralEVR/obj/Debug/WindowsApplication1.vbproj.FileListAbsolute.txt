@@ -1,0 +1,17 @@
+C:\Test\vb.net2019\GeneralEVR\bin\Debug\WindowsApplication1.exe.config
+C:\Test\vb.net2019\GeneralEVR\bin\Debug\WindowsApplication1.exe
+C:\Test\vb.net2019\GeneralEVR\bin\Debug\WindowsApplication1.pdb
+C:\Test\vb.net2019\GeneralEVR\bin\Debug\WindowsApplication1.xml
+C:\Test\vb.net2019\GeneralEVR\bin\Debug\Interop.MOVIEPLAYERLib.dll
+C:\Test\vb.net2019\GeneralEVR\bin\Debug\AxInterop.MOVIEPLAYERLib.dll
+C:\Test\vb.net2019\GeneralEVR\obj\Debug\WindowsApplication1.vbprojAssemblyReference.cache
+C:\Test\vb.net2019\GeneralEVR\obj\Debug\Interop.MOVIEPLAYERLib.dll
+C:\Test\vb.net2019\GeneralEVR\obj\Debug\AxInterop.MOVIEPLAYERLib.dll
+C:\Test\vb.net2019\GeneralEVR\obj\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+C:\Test\vb.net2019\GeneralEVR\obj\Debug\WindowsApplication1.Form1.resources
+C:\Test\vb.net2019\GeneralEVR\obj\Debug\WindowsApplication1.Resources.resources
+C:\Test\vb.net2019\GeneralEVR\obj\Debug\WindowsApplication1.vbproj.GenerateResource.cache
+C:\Test\vb.net2019\GeneralEVR\obj\Debug\WindowsApplication1.vbproj.CoreCompileInputs.cache
+C:\Test\vb.net2019\GeneralEVR\obj\Debug\WindowsApplication1.exe
+C:\Test\vb.net2019\GeneralEVR\obj\Debug\WindowsApplication1.xml
+C:\Test\vb.net2019\GeneralEVR\obj\Debug\WindowsApplication1.pdb

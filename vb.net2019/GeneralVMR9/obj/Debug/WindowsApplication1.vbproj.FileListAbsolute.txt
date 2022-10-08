@@ -1,0 +1,16 @@
+C:\Program Files (x86)\Movie Player Pro ActiveX ControlTesting14\Examples\vb.net2010\GeneralVMR9\bin\Debug\image.bmp
+C:\Program Files (x86)\Movie Player Pro ActiveX ControlTesting14\Examples\vb.net2010\GeneralVMR9\bin\Debug\WindowsApplication1.exe
+C:\Program Files (x86)\Movie Player Pro ActiveX ControlTesting14\Examples\vb.net2010\GeneralVMR9\bin\Debug\WindowsApplication1.pdb
+C:\Program Files (x86)\Movie Player Pro ActiveX ControlTesting14\Examples\vb.net2010\GeneralVMR9\bin\Debug\WindowsApplication1.xml
+C:\Program Files (x86)\Movie Player Pro ActiveX ControlTesting14\Examples\vb.net2010\GeneralVMR9\bin\Debug\Interop.MOVIEPLAYERLib.dll
+C:\Program Files (x86)\Movie Player Pro ActiveX ControlTesting14\Examples\vb.net2010\GeneralVMR9\bin\Debug\AxInterop.MOVIEPLAYERLib.dll
+C:\Program Files (x86)\Movie Player Pro ActiveX ControlTesting14\Examples\vb.net2010\GeneralVMR9\obj\Debug\WindowsApplication1.vbprojAssemblyReference.cache
+C:\Program Files (x86)\Movie Player Pro ActiveX ControlTesting14\Examples\vb.net2010\GeneralVMR9\obj\Debug\Interop.MOVIEPLAYERLib.dll
+C:\Program Files (x86)\Movie Player Pro ActiveX ControlTesting14\Examples\vb.net2010\GeneralVMR9\obj\Debug\AxInterop.MOVIEPLAYERLib.dll
+C:\Program Files (x86)\Movie Player Pro ActiveX ControlTesting14\Examples\vb.net2010\GeneralVMR9\obj\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+C:\Program Files (x86)\Movie Player Pro ActiveX ControlTesting14\Examples\vb.net2010\GeneralVMR9\obj\Debug\WindowsApplication1.Form1.resources
+C:\Program Files (x86)\Movie Player Pro ActiveX ControlTesting14\Examples\vb.net2010\GeneralVMR9\obj\Debug\WindowsApplication1.Resources.resources
+C:\Program Files (x86)\Movie Player Pro ActiveX ControlTesting14\Examples\vb.net2010\GeneralVMR9\obj\Debug\WindowsApplication1.vbproj.GenerateResource.cache
+C:\Program Files (x86)\Movie Player Pro ActiveX ControlTesting14\Examples\vb.net2010\GeneralVMR9\obj\Debug\WindowsApplication1.exe
+C:\Program Files (x86)\Movie Player Pro ActiveX ControlTesting14\Examples\vb.net2010\GeneralVMR9\obj\Debug\WindowsApplication1.xml
+C:\Program Files (x86)\Movie Player Pro ActiveX ControlTesting14\Examples\vb.net2010\GeneralVMR9\obj\Debug\WindowsApplication1.pdb
